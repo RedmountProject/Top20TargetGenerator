@@ -1,0 +1,19 @@
+solr.url=http://5.153.19.91:8983/solr/SolrCatalog
+solr.fetch.size=43000
+solr.commit.size=400
+
+
+change.status = false
+
+job=true
+log_path=logs
+
+AlgoMethod=Balanced
+TopStorage=TopDocSumSorted
+
+db.commit.size=400
+db.address=192.168.1.20
+db.port=3306
+db.name=catalog_20130618
+db.username=sp
+db.password=E33eur18_
